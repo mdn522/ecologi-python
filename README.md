@@ -2,10 +2,10 @@
 
 ---
 
-### Install
+### Install (Must have git installed)
 ```bash
 pip install git+https://github.com/mdn522/ecologi-python.git
-```
+````
 
 ### Import
 ```python

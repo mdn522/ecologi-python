@@ -44,5 +44,5 @@ eco.purchase_trees()  # Provide necessary arguments mentioned in the API docs
 
 ### Purchase Carbon Offsets
 ```python
-eco.purchase_trees()  # Provide necessary arguments mentioned in the API docs
+eco.purchase_carbon_offsets()  # Provide necessary arguments mentioned in the API docs
 ```

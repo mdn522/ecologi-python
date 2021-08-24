@@ -13,6 +13,7 @@ from ecologi import Ecologi
 
 eco = Ecologi()
 # eco = Ecologi(auth_token='YOUR-AUTH-TOKEN')
+# auth_token is required for Impact API
 ```
 
 ---
